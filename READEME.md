@@ -1,1 +1,5 @@
-プラグインの導入（Docker、laravel,日本語化）
+# 作業履歴
+
+#＃ VSCにプラグインを導入
+1. ExtensionsをクリックしDocker,laravel,日本語化のプラグインを検索する
+2. インストールする
