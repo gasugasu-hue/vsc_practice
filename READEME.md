@@ -13,4 +13,5 @@
 6. 再びアイコンをクリックしマージ先にmasterを指定しました
 7. Shift+command+Pで表示させgit mardeで検索しマージした
 8. Githubでnewrespositoryを作成しREADME.txtを左下アイコンでpushした
-9. 修正と破棄のアイコンをクリックすると変更前の状態に戻せる
+9. GitHubの方で修正した内容をpullした
+10. 修正と破棄のアイコンをクリックすると変更前に戻せる
