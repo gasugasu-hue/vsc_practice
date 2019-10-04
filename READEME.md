@@ -15,3 +15,7 @@
 8. Githubでnewrespositoryを作成しREADME.txtを左下アイコンでpushした
 9. GitHubの方で修正した内容をpullした
 10. 修正と破棄のアイコンをクリックすると変更前に戻せる
+
+## Dockerプラグインの使い方
+1. Dockerから作成したコンテナを閲覧し一旦docker rm container pruneで削除した
+2. IMSGESから講習で作成したイメージを右クリックでrunして動作を確認した
