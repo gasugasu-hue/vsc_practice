@@ -1,0 +1,1 @@
+プラグインの導入（Docker、laravel,日本語化）
